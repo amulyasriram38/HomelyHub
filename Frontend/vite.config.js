@@ -10,8 +10,8 @@ export default defineConfig({
         target: 'https://homelyhub-umr4.onrender.com',
         changeOrigin: true,
         secure: false,
-      }
-    }
-  }
-})
+      },
+    },
+  },
+});
 
